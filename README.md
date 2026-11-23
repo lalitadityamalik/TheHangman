@@ -16,4 +16,4 @@ A Star Wars trivia word-guessing game built entirely in C++
 
 **Step 2 (Trivial)** - Open main.cpp and edit the console output statement on line 12 accordingly.
 
-![Demo GIF] (./hangmangif.gif)
+![Demo GIF](./hangmangif.gif)
