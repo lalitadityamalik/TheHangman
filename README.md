@@ -15,3 +15,5 @@ A Star Wars trivia word-guessing game built entirely in C++
 **Step 1** - Open roundPlayer.cpp and add/edit the values of the wordSet vector string on line 13.
 
 **Step 2 (Trivial)** - Open main.cpp and edit the console output statement on line 12 accordingly.
+
+! [Demo GIF] (./hangmangif.gif)
