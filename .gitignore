@@ -1,0 +1,14 @@
+# Build-output
+cmake-build-*/
+build/
+
+# CLion
+.idea/
+
+#macOS
+.DS_Store
+
+# Compile Files
+*.o
+*.out
+*.exe
